@@ -1,5 +1,5 @@
 package com.capgemini.day8;
-
+//HOPE TO GOOD THIS COMMITING WORKS
 import java.util.Scanner;
 //don't put try and catch for unchecked exception
 //for checked exception  the exception needs to be handled using try
